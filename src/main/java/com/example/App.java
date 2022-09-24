@@ -12,7 +12,7 @@ public class App {
             try {
                 
                 id=inp.inp();
-                System.out.println("Your id"+id+"is valid");
+                System.out.println("Your id "+id+" is valid");
                 match = false;
             } catch (Exception e) {
                 
